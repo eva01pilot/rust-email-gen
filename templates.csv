@@ -1,0 +1,24 @@
+heading,paragraph,btn_link,btn_href,directory
+Информация для верификации отправлена модератору,Модератор уже рассматривает вашу заявку на верификацию. ,В кабинет,https://7invest.ru/lk/dashboard,documents/verification/modersent.html
+Приглашаем вас в сервис Диадок ,"Пока ваша заявка на верификацию находится на модерации, приглашаем в вас в сервис Диадок для обмена электронными документами ",Принять приглашение,https://7invest.ru/lk/dashboard,documents/verification/diadocinvite.html
+Подпишите документ присоединения к правилам ,"Для успешного прохождения верификации, вам необходимо подписать документ присоединения к правилам платформы",Подписать  документ,https://7invest.ru/lk/dashboard,documents/verification/signdocsinvite.html
+Ваш аккаунт успешно прошел верификацию,"Теперь вам доступны все функции в личном кабинете, вы можете пополнить баланс и начать инвестировать ",В личный кабинет,https://7invest.ru/lk/dashboard,documents/verification/investorsuccess.html
+Ваш аккаунт успешно прошел верификацию,"Теперь вам доступны все функции в личном кабинете, вы можете разместить свою первую заявку на сбор средств",В личный кабинет,https://7invest.ru/lk/dashboard,documents/verification/borrowersuccess.html
+Необходимо вмести исправления в заявке на верификацию,"Модератор оставил комментарии по вашей заявке на верификацию, необходимо внести исправления",Перейти к заявке на верификацию,https://7invest.ru/lk/dashboard,documents/verification/verifyfailure.html
+Ваш аккаунт был заблокирован за нарушение правил платформы,,,,documents/verification/accountblocked.html
+Ваша заявка на сбор средств была отправлена на модерацию,Модератор уже рассматривает вашу заявку на сбор средств. ,В кабинет,https://7invest.ru/lk/dashboard,documents/applicationobj/senttomoder.html
+Необходимо внести исправления в заявке на сбор средств,"Модератор оставил комментарии по вашей заявке, необходимо внести исправления",Перейти к заявкам на сбор средств,https://7invest.ru/lk/dashboard,documents/applicationobj/correctionneeded.html
+Ваша заявка на сбор средств успешно прошла модерацию и ожидает оплаты,Для размещения вашей заявки на сбор средств необходимо внести оплату ,Перейти к оплате,https://7invest.ru/lk/dashboard,documents/applicationobj/moneyneeded.html
+Ваша заявка перешла в объекты и доступна для инвесторов,Мы опубликовали вашу заявку в разделе объекты и она стала доступна для инвесторов,Перейти к объектам,https://7invest.ru/lk/dashboard,documents/applicationobj/readyforinvestors.html
+Объект не собрал средства в срок,Все средства будут возвращены на лицевой счёт инвесторов,Перейти в личный кабинет,https://7invest.ru/lk/dashboard,documents/applicationobj/moneytimeout.html
+Предоставлен займ по объекту,Все собранные средства по объекту были переведены на ваш расчётный счет,Перейти в личный кабинет,https://7invest.ru/lk/dashboard,documents/applicationobj/zaimgiven.html
+Займ возвращён инвесторам,Все заёмные средства с процентами были выплачены инвесторам по объекту,Перейти в личный кабинет,https://7invest.ru/lk/dashboard,documents/applicationobj/zaimreturned.html
+Имеется задолженность по займу,Необходимо внести платеж для погашения займа,Перейти в личный кабинет,https://7invest.ru/lk/dashboard,documents/applicationobj/moneydolg.html
+Необходимо внести платеж по займу,Напоминаем о необходимости внести платеж по займу,Перейти в личный кабинет,https://7invest.ru/lk/dashboard,documents/applicationobj/moneynotification.html
+Зачислены проценты по объекту,На ваш лицевой счёт были зачислены проценты по объекту  ,Перейти в кабинет,https://7invest.ru/lk/dashboard,documents/applicationobj/percentgotten.html
+Зачислены проценты и тело займа по объекту,На ваш лицевой счёт были зачислены проценты и тело займа по объекту  ,Перейти в кабинет,https://7invest.ru/lk/dashboard,documents/applicationobj/percentbodygotten.html
+Модератор отменил размещение объекта,Уточите детали у поддержки support@7invest.ru,Перейти в личный кабинет,https://7invest.ru/lk/dashboard,documents/applicationobj/objectcancelled.html
+Вы отозвали размещение объекта,Уточите детали у поддержки support@7invest.ru,Перейти в личный кабинет,https://7invest.ru/lk/dashboard,documents/applicationobj/objectreturned.html
+Зачисление средств,Было осуществлено зачисление средств на лицевой счёт инвестора ,Перейти в личный кабинет,https://7invest.ru/lk/dashboard,documents/investor/moneygotten.html
+Средства были внесены ,Мы внесли ваши средства в пользу выбранного инвестиционного предложения  ,Перейти в кабинет,https://7invest.ru/lk/dashboard,documents/investor/moneysentsuggestion.html
+Средства переведены ,Был осуществлён перевод средств с лицевого счета ,Перейти в кабинет,https://7invest.ru/lk/dashboard,documents/investor/moneysentfromface.html

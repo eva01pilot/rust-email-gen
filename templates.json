@@ -1,0 +1,163 @@
+[
+  {
+    "heading": "Информация для верификации отправлена модератору",
+    "paragraph": "Модератор уже рассматривает вашу заявку на верификацию.",
+    "btn_link": "В кабинет",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/verification/modersent.html"
+  },
+  {
+    "heading": "Приглашаем вас в сервис Диадок",
+    "paragraph": "Пока ваша заявка на верификацию находится на модерации, приглашаем в вас в сервис Диадок для обмена электронными документами",
+    "btn_link": "Принять приглашение",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/verification/diadocinvite.html"
+  },
+  {
+    "heading": "Подпишите документ присоединения к правилам",
+    "paragraph": "Для успешного прохождения верификации, вам необходимо подписать документ присоединения к правилам платформы",
+    "btn_link": "Подписать  документ",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/verification/signdocsinvite.html"
+  },
+  {
+    "heading": "Ваш аккаунт успешно прошел верификацию",
+    "paragraph": "Теперь вам доступны все функции в личном кабинете, вы можете пополнить баланс и начать инвестировать",
+    "btn_link": "В личный кабинет",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/verification/investorsuccess.html"
+  },
+  {
+    "heading": "Ваш аккаунт успешно прошел верификацию",
+    "paragraph": "Теперь вам доступны все функции в личном кабинете, вы можете разместить свою первую заявку на сбор средств",
+    "btn_link": "В личный кабинет",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/verification/borrowersuccess.html"
+  },
+  {
+    "heading": "Необходимо вмести исправления в заявке на верификацию",
+    "paragraph": "Модератор оставил комментарии по вашей заявке на верификацию, необходимо внести исправления",
+    "btn_link": "Перейти к заявке на верификацию",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/verification/verifyfailure.html"
+  },
+  {
+    "heading": "Ваш аккаунт был заблокирован за нарушение правил платформы",
+    "paragraph": "",
+    "btn_link": "",
+    "btn_href": "",
+    "directory": "documents/verification/accountblocked.html"
+  },
+  {
+    "heading": "Ваша заявка на сбор средств была отправлена на модерацию",
+    "paragraph": "Модератор уже рассматривает вашу заявку на сбор средств.",
+    "btn_link": "В кабинет",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/applicationobj/senttomoder.html"
+  },
+  {
+    "heading": "Необходимо внести исправления в заявке на сбор средств",
+    "paragraph": "Модератор оставил комментарии по вашей заявке, необходимо внести исправления",
+    "btn_link": "Перейти к заявкам на сбор средств",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/applicationobj/correctionneeded.html"
+  },
+  {
+    "heading": "Ваша заявка на сбор средств успешно прошла модерацию и ожидает оплаты",
+    "paragraph": "Для размещения вашей заявки на сбор средств необходимо внести оплату",
+    "btn_link": "Перейти к оплате",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/applicationobj/moneyneeded.html"
+  },
+  {
+    "heading": "Ваша заявка перешла в объекты и доступна для инвесторов",
+    "paragraph": "Мы опубликовали вашу заявку в разделе объекты и она стала доступна для инвесторов",
+    "btn_link": "Перейти к объектам",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/applicationobj/readyforinvestors.html"
+  },
+  {
+    "heading": "Объект не собрал средства в срок",
+    "paragraph": "Все средства будут возвращены на лицевой счёт инвесторов",
+    "btn_link": "Перейти в личный кабинет",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/applicationobj/moneytimeout.html"
+  },
+  {
+    "heading": "Предоставлен займ по объекту",
+    "paragraph": "Все собранные средства по объекту были переведены на ваш расчётный счет",
+    "btn_link": "Перейти в личный кабинет",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/applicationobj/zaimgiven.html"
+  },
+  {
+    "heading": "Займ возвращён инвесторам",
+    "paragraph": "Все заёмные средства с процентами были выплачены инвесторам по объекту",
+    "btn_link": "Перейти в личный кабинет",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/applicationobj/zaimreturned.html"
+  },
+  {
+    "heading": "Имеется задолженность по займу",
+    "paragraph": "Необходимо внести платеж для погашения займа",
+    "btn_link": "Перейти в личный кабинет",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/applicationobj/moneydolg.html"
+  },
+  {
+    "heading": "Необходимо внести платеж по займу",
+    "paragraph": "Напоминаем о необходимости внести платеж по займу",
+    "btn_link": "Перейти в личный кабинет",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/applicationobj/moneynotification.html"
+  },
+  {
+    "heading": "Зачислены проценты по объекту",
+    "paragraph": "На ваш лицевой счёт были зачислены проценты по объекту",
+    "btn_link": "Перейти в кабинет",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/applicationobj/percentgotten.html"
+  },
+  {
+    "heading": "Зачислены проценты и тело займа по объекту",
+    "paragraph": "На ваш лицевой счёт были зачислены проценты и тело займа по объекту",
+    "btn_link": "Перейти в кабинет",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/applicationobj/percentbodygotten.html"
+  },
+  {
+    "heading": "Модератор отменил размещение объекта",
+    "paragraph": "Уточите детали у поддержки support@7invest.ru",
+    "btn_link": "Перейти в личный кабинет",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/applicationobj/objectcancelled.html"
+  },
+  {
+    "heading": "Вы отозвали размещение объекта",
+    "paragraph": "Уточите детали у поддержки support@7invest.ru",
+    "btn_link": "Перейти в личный кабинет",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/applicationobj/objectreturned.html"
+  },
+  {
+    "heading": "Зачисление средств",
+    "paragraph": "Было осуществлено зачисление средств на лицевой счёт инвестора",
+    "btn_link": "Перейти в личный кабинет",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/investor/moneygotten.html"
+  },
+  {
+    "heading": "Средства были внесены",
+    "paragraph": "Мы внесли ваши средства в пользу выбранного инвестиционного предложения",
+    "btn_link": "Перейти в кабинет",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/investor/moneysentsuggestion.html"
+  },
+  {
+    "heading": "Средства переведены",
+    "paragraph": "Был осуществлён перевод средств с лицевого счета",
+    "btn_link": "Перейти в кабинет",
+    "btn_href": "https://7invest.ru/lk/dashboard",
+    "directory": "documents/investor/moneysentfromface.html"
+  }
+]
